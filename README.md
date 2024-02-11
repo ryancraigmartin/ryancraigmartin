@@ -34,8 +34,8 @@
 
 ### Hello World, I'm Ryan. 👋🏼
 
-I am Software and Audio Engineer born, raised and based out of Miami, Florida.
-I am a proud founding team member of Sommsation, a wine experience technology platform designed to revolutionize the way people share experiences over wine.
+I am an E-commerce focused web developer and self taught sound designer born, raised and based out of Miami, Florida.
+I am a proud founding team member of [Sommsation](https://www.sommsation.com/), a wine experience technology platform designed to revolutionize the way people share experiences over wine. 
 
 <details style="font-size: 10px">
 <summary>(You can read a bit more about me here. 🔍)</summary>
@@ -60,9 +60,7 @@ I look forward to connecting with you! 😄
 
 - 🍷 I’m currently building [Sommsation](https://www.sommsation.com/?ic=67976597)
 
-- 🌱 I’m currently learning Advanced Angular concepts and basic Rust for fun.
-
-- 🏘️ Interested in an open source Angular project to contribute to? Lets collaborate on [CommunityCorruption.com](https://github.com/ryancraigmartin/communitycorruption).
+- 🌱 I’m currently learning Advanced Angular concepts and revisiting Golang for fun.
 
 </td><td valign="top" width="50%">
 
