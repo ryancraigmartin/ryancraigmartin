@@ -35,8 +35,6 @@ Following CareCloud's acquisition by MTBC, I started working as a Software Engin
 I am fascinated by the technologies and the people behind the services and applications we interface with day to day. I continue to stay up to date by teaching myself new tech and best practices by using online resources including Lynda/LinkedIn Learning, Scrimba, FreeCodeCamp, FrontEndMasters, Udemy, Egghead.io, and Youtube of course.
 </details>
 
-I'm a self-taught sound designer, audio engineer, disk jockey, and record collector with a deep interest in podcasts as a creative digital medium.
-
 Send me an InMail or an email to contact@ryanmartin.io 📬.
 
 I look forward to connecting with you! 😄
